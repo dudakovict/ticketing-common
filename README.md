@@ -37,3 +37,6 @@ Contains commonly used errors, events, types, classes, interfaces and middleware
 
 ## **Exports**
 - [Index](src/index.ts)
+
+# **License**
+[MIT](LICENSE)
