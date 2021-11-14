@@ -27,7 +27,7 @@ Contains commonly used errors, events, types, interfaces and middlewares for tic
 - [TicketCreatedEvent](src/events/services/tickets/ticket-created-event.ts)
 - [TicketUpdatedEvent](src/events/services/tickets/ticket-updated-event.ts)
 ### *Types*
-- OrderStatus
+- [OrderStatus](src/events/types/order-status.ts)
   
 ## **Middlewares**
 - [CurrentUser](src/middlewares/current-user.ts)
