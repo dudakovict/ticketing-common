@@ -1,6 +1,6 @@
 {
   "name": "@tdticketing/common",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
   "repository": "https://github.com/dudakovict/ticketing-common-lib.git",
