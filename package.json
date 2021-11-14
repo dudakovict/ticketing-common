@@ -1,7 +1,7 @@
 {
   "name": "@tdticketing/common",
   "description": "Contains commonly used errors, events, types, classes, interfaces and middlewares for ticketing microservices",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
   "repository": "https://github.com/dudakovict/ticketing-common-lib.git",
