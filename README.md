@@ -2,7 +2,7 @@
 
 Contains commonly used errors, events, types, classes, interfaces and middlewares for ticketing microservices
 
-## **Errors**
+## Errors
 - [BadRequestError](src/errors/bad-request-error.ts)
 - [CustomError](src/errors/custom-error.ts)
 - [DatabaseConnectionError](src/errors/database-connection-error.ts)
@@ -10,12 +10,12 @@ Contains commonly used errors, events, types, classes, interfaces and middleware
 - [NotFoundError](src/errors/not-found-error.ts)
 - [RequestValidationError](src/errors/request-validation-error.ts)
   
-## **Events**
-### *Base*
+## Events
+### Base
 - [Listener](src/events/base/listener.ts)
 - [Publisher](src/events/base/publisher.ts)
 - [Subjects](src/events/base/subjects.ts)
-### *Services*
+### Services
 #### Expiration
 - [ExpirationCompleteEvent](src/events/services/expiration/expiration-complete-event.ts)
 #### Orders
@@ -26,17 +26,17 @@ Contains commonly used errors, events, types, classes, interfaces and middleware
 #### Tickets
 - [TicketCreatedEvent](src/events/services/tickets/ticket-created-event.ts)
 - [TicketUpdatedEvent](src/events/services/tickets/ticket-updated-event.ts)
-### *Types*
+### Types
 - [OrderStatus](src/events/types/order-status.ts)
   
-## **Middlewares**
+## Middlewares
 - [CurrentUser](src/middlewares/current-user.ts)
 - [ErrorHandler](src/middlewares/error-handler.ts)
 - [RequireAuth](src/middlewares/require-auth.ts)
 - [ValidateRequest](src/middlewares/validate-request.ts)
 
-## **Exports**
+## Exports
 - [Index](src/index.ts)
 
-# **License**
+# License
 [MIT](LICENSE)
