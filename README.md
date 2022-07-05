@@ -1,6 +1,6 @@
 # **Ticketing - Common Library**
 
-Contains commonly used errors, events, types, classes, interfaces and middlewares for ticketing microservices
+Contains commonly used errors, events, types, classes, interfaces and middlewares for [ticketing](https://github.com/dudakovict/ticketing) microservices
 
 ## Errors
 - [BadRequestError](src/errors/bad-request-error.ts)
